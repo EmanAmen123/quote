@@ -1,0 +1,21 @@
+
+
+
+
+.parent .child h1{
+    font-size: 80px;
+    font-weight: bold;
+    margin-bottom: 30px;
+    font-family: Impact;
+    color: black;
+
+}
+.parent .child p{
+    font-size: 22px;
+    font-weight: 500;
+}
+@media(max-width:767px){
+    .parent .child h1{
+        font-size: 50px;
+    }
+}
